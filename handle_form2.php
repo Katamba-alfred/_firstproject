@@ -6,7 +6,7 @@
 	<title>Form_two</title>
 	<style type="text/css">
 		.error{
-			color:  red;
+			color:  blue;
 			font-weight: bold;
 		}
 	</style>
