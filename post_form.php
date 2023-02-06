@@ -21,12 +21,13 @@
     </label></p>
     <p><label>Companies:
         <select name="companies">
-            <option value="VMC">Volvo Manufacturing Company</option>
-            <option value="BMW">Bavarian Engine Works</option>
-            <option value="Golf">Volkswagen company</option>
+            <option value="Volvo Manufacturing Company">Volvo Manufacturing Company</option>
+            <option value="Bavarian Engine Works">Bavarian Engine Works</option>
+            <option value="Volkswagen company">Volkswagen company</option>
         </select>
     </label></p>
 </fieldset>
+<p align="center"><input type="submit" name="submit" value="Your Choice!"/></p>
 </form>
 
 </body>
